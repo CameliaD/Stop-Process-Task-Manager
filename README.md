@@ -17,5 +17,5 @@ https://user-images.githubusercontent.com/32555201/220141744-450cc21c-06c6-40b2-
 
 ## Get started
 1. Download the files from this repository. If you download them as zip file, you need first to unlock the archive before using the script. Check [Read before unzipping.pdf](./Read%20before%20unzipping.pdf) to see how.
-2. Check the instruction file, [How to run Clean Desktop.pdf](./How%20to%20run%Stop%Process.pdf), for step-by-step guidance on how to use the script.
+2. Check the instruction file, [How to run Stop Process.pdf](./How%20to%20run%20Stop%20Process.pdf), for step-by-step guidance on how to use the script.
 3. Run the script and enjoy the newfound ease and efficiency in managing your processes.
