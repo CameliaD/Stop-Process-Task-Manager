@@ -1,14 +1,15 @@
-﻿<#
--> Running this script with admin rights
-#>
 <#
-If (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator"))
-{   
-    $arguments = "& '" + $myinvocation.mycommand.definition + "'"
-    Start-Process powershell -Verb runAs -ArgumentList $arguments
-    Break
-}
+.SYNOPSIS
+    Stop Process Task Manager: A user-friendly PowerShell script to quickly stop any running process on Windows.
+
+.DESCRIPTION
+    This PowerShell script provides a simple and intuitive interface for quickly stopping any running process on a Windows machine. It's an ideal tool for those who struggle to close unresponsive applications or need to quickly and easily close a process without navigating through multiple menus and options.
+
+.NOTES
+    Author: Camelia Bobaru
+    Date: 19.02.2023
 #>
+
 <#
 -> Reading the User Interface
 #>
