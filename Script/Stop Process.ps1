@@ -35,7 +35,7 @@ $configFilesLocationOnThisPC = "$scriptLocationOnThisPC\Config files"
                 <ImageBrush ImageSource="$configFilesLocationOnThisPC\btnStoProcess.jpg"/>
             </Button.Background>
         </Button>
-        <Button Name="btnStop" Content="&#x270B; Cursor="Hand" HorizontalAlignment="Left" Height="35" Margin="245,505,0,0" VerticalAlignment="Top" Width="204" FontFamily="Segoe UI Black" Foreground="Black" OpacityMask="#FFAC1313" BorderBrush="#FF94A5AA" FontSize="18" RenderTransformOrigin="-0.28,0.429">
+        <Button Name="btnStop" Content="&#x270B; Stop" Cursor="Hand" HorizontalAlignment="Left" Height="35" Margin="245,505,0,0" VerticalAlignment="Top" Width="204" FontFamily="Segoe UI Black" Foreground="Black" OpacityMask="#FFAC1313" BorderBrush="#FF94A5AA" FontSize="18" RenderTransformOrigin="-0.28,0.429">
             <Button.Background>
                 <ImageBrush ImageSource="$configFilesLocationOnThisPC\btnStoProcess.jpg"/>
             </Button.Background>
