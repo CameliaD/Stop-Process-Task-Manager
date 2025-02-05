@@ -30,12 +30,12 @@ $configFilesLocationOnThisPC = "$scriptLocationOnThisPC\Config files"
     </Window.Background>
     <Grid Margin="0,45,0,12">
 
-        <Button Name="btnRefresh" Content="🔃 Refresh" Cursor="Hand" HorizontalAlignment="Left" Height="35" Margin="35,505,0,0" VerticalAlignment="Top" Width="204" FontFamily="Segoe UI Black" Foreground="Black" OpacityMask="#FFAC1313" BorderBrush="#FF94A5AA" FontSize="18">
+        <Button Name="btnRefresh" Content="&#x1F503; Refresh" Cursor="Hand" HorizontalAlignment="Left" Height="35" Margin="35,505,0,0" VerticalAlignment="Top" Width="204" FontFamily="Segoe UI Black" Foreground="Black" OpacityMask="#FFAC1313" BorderBrush="#FF94A5AA" FontSize="18">
             <Button.Background>
                 <ImageBrush ImageSource="$configFilesLocationOnThisPC\btnStoProcess.jpg"/>
             </Button.Background>
         </Button>
-        <Button Name="btnStop" Content="✋ Stop" Cursor="Hand" HorizontalAlignment="Left" Height="35" Margin="245,505,0,0" VerticalAlignment="Top" Width="204" FontFamily="Segoe UI Black" Foreground="Black" OpacityMask="#FFAC1313" BorderBrush="#FF94A5AA" FontSize="18" RenderTransformOrigin="-0.28,0.429">
+        <Button Name="btnStop" Content="&#x270B; Cursor="Hand" HorizontalAlignment="Left" Height="35" Margin="245,505,0,0" VerticalAlignment="Top" Width="204" FontFamily="Segoe UI Black" Foreground="Black" OpacityMask="#FFAC1313" BorderBrush="#FF94A5AA" FontSize="18" RenderTransformOrigin="-0.28,0.429">
             <Button.Background>
                 <ImageBrush ImageSource="$configFilesLocationOnThisPC\btnStoProcess.jpg"/>
             </Button.Background>
